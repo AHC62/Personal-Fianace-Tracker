@@ -24,16 +24,7 @@ A Streamlit web app for tracking income/expenses with:
 ### **🎯 Marking Scheme Coverage**
 | Requirement | Delivered |
 |-------------|-----------|
-| Streamlit Deployment (3 marks) | ✅ Public URL |
-| GitHub Repo (3 marks) | ✅ Code + README |
-| Documentation | ✅ Installation guide + screenshots |
+| Streamlit Deployment  | ✅ Public URL |
+| GitHub Repo  | ✅ Code + README |
 | Instructor/Course Info | ✅ In README |
 
----
-
-### **💡 Pro Tips**
-1. Test your Streamlit app URL on mobile
-2. Update README if you add new features
-3. Make regular commits to GitHub with clear messages
-
-Your submission is now complete with both deployment and documentation! Let me know if you'd like to enhance any section. 🚀
